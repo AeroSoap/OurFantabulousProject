@@ -1,0 +1,6 @@
+Director: Josh - Was nominated for having a good understanding of GitHub yesterday.
+Producer: Kaitlyn - Volunteered due to having great organization skills.
+Designer: Hunter - Chosen for designer because he has used Unity before and has a good range of knowledge in game design.
+Art Lead: Hunter - Was designated as the artist due to having plenty of experience with digital art.
+Sound Lead: Willem - Designated as sound lead due to an exceptional amount of experience being the sound lead in the past, as well as being the most highly trained in the group working with sound.
+Tech Lead: Josh - Has the most prorgamming experience in the group, and has used Unity and GitHub in the past.
