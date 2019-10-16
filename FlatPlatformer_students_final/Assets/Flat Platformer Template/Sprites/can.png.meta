@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 440a133c03a7ae9459a6ddbca103c255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4440683830036534113
+    second: Trees_07_0
+  - first:
+      213: -8215081634555927529
+    second: Trees_07_1
+  - first:
+      213: -3838394664439385595
+    second: Trees_07_2
+  - first:
+      213: 2468197194208340710
+    second: Trees_07_3
+  - first:
+      213: 6643318458814862502
+    second: Trees_07_4
+  - first:
+      213: -7388169551300805111
+    second: Trees_07_5
+  - first:
+      213: -2656146152557660038
+    second: Trees_07_6
+  - first:
+      213: 8643214432955911606
+    second: Trees_07_7
+  - first:
+      213: 8796156900907917526
+    second: Trees_07_8
+  - first:
+      213: 4177051884054258265
+    second: Trees_07_9
+  - first:
+      213: -7869438504592235161
+    second: Trees_07_10
+  - first:
+      213: -5870998899932711406
+    second: Trees_07_11
+  - first:
+      213: -2578471842206550984
+    second: Trees_07_12
+  - first:
+      213: -4186754823284113400
+    second: Trees_07_13
+  - first:
+      213: 3271871813631228825
+    second: Trees_07_14
+  - first:
+      213: -3803927485903897977
+    second: Trees_07_15
+  - first:
+      213: 4641539286500182452
+    second: Trees_07_16
+  - first:
+      213: 5729740106779423929
+    second: Trees_07_17
+  - first:
+      213: 2170425466753939580
+    second: Trees_07_18
+  - first:
+      213: 8741934717155647418
+    second: Trees_07_19
+  - first:
+      213: 1809590247883004610
+    second: Trees_07_20
+  - first:
+      213: -418670771868632442
+    second: Trees_07_21
+  - first:
+      213: -5444239054031955587
+    second: Trees_07_22
+  - first:
+      213: 6427028132028087481
+    second: Trees_07_23
+  - first:
+      213: 6319777068683386435
+    second: Trees_07_24
+  - first:
+      213: -8393688875530911252
+    second: Trees_07_25
+  - first:
+      213: -2260822237180543158
+    second: Trees_07_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 155
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_07_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3106
+        width: 471
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863158fde98e8c4db678f8eb8f4cd68
+      internalID: 4440683830036534113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3106
+        width: 415
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc445a5957c84e347b45d4d14208b755
+      internalID: -8215081634555927529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_2
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3106
+        width: 414
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e941f062230f3546b21d54b278cd024
+      internalID: -3838394664439385595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_3
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3106
+        width: 444
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8dcce1d70ad54a9a564d3c5bf4c44
+      internalID: 2468197194208340710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_4
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 3106
+        width: 444
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7bd8bd2e810d84ab2141d5b7669ba1
+      internalID: 6643318458814862502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_5
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3106
+        width: 676
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555950e2a60b7440911e5b69ed6acbc
+      internalID: -7388169551300805111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_6
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 3106
+        width: 557
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a2637db34d764f8f36e6202473854
+      internalID: -2656146152557660038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 613
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360dfbc876d1cd243a2ab9bd56c86409
+      internalID: 8643214432955911606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2066
+        width: 458
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d73f065a5cab74a82b1d4aaec1f762
+      internalID: 8796156900907917526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_9
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2066
+        width: 443
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b02a3cbff05c54c9b86343733e597f
+      internalID: 4177051884054258265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_10
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2076
+        width: 420
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611246b5993f86140af8f7e489ab79a4
+      internalID: -7869438504592235161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_11
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2092
+        width: 471
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24551742ec1fd5e4e8f363b30f015c68
+      internalID: -5870998899932711406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_12
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 2076
+        width: 423
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ac2b2b2714064d9eaafa8d0f69951
+      internalID: -2578471842206550984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_13
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 2076
+        width: 453
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f5f0467f47a774ea5cfbcf8f599616
+      internalID: -4186754823284113400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1083
+        width: 454
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0ff2237531dd4688536a7560d1bfc
+      internalID: 3271871813631228825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1095
+        width: 362
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244885e737c5efe4e9e66c4637829bf7
+      internalID: -3803927485903897977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1083
+        width: 418
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8315b2e8a6ec245ade76eff271b62d
+      internalID: 4641539286500182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_17
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1095
+        width: 363
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f2c338fb6053941b4374a993bc8652
+      internalID: 5729740106779423929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_18
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1079
+        width: 445
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf4ce2cce349c41b6de70b54dc6c56
+      internalID: 2170425466753939580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_19
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1095
+        width: 322
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbaf1852d0b974283787b52704e40e
+      internalID: 8741934717155647418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_20
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1087
+        width: 363
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8cbf81133c0440a0aa2b6b2a7d40f
+      internalID: 1809590247883004610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 544
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47d45972887b449896dcb34b922ae9
+      internalID: -418670771868632442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3
+        width: 551
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118ddf18874f04a46b804d8897561ad0
+      internalID: -5444239054031955587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_23
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 585
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9839bb76f57b458a047d1c6ff6da3
+      internalID: 6427028132028087481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_24
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 0
+        width: 595
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f9e6851ca1f842a557b7032b009b7
+      internalID: 6319777068683386435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_25
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 17
+        width: 549
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0710ae85e18c4b801542e021769ae
+      internalID: -8393688875530911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_07_26
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 15
+        width: 540
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343e5f5b2dc58b4d80fa970c81acfe5
+      internalID: -2260822237180543158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb4864dfc19aef1409de7a27ccd8fe46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
